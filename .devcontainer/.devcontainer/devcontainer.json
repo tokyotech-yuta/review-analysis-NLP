@@ -1,0 +1,13 @@
+{
+    "name": "Python3.9 開発環境Docker",
+    "dockerFile": "../Dockerfile",
+    "extensions": [
+        "ms-python.python",
+        "njpwerner.autodocstring",
+        "mosapride.zenkaku",
+        "octref.vetur",
+        "ms-python.vscode-pylance",
+        "streetsidesoftware.code-spell-checker"
+    ],
+    "forwardPorts": [9000]
+}
